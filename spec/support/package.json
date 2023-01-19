@@ -1,0 +1,20 @@
+{
+  "name": "diary-challenge-ood",
+  "version": "1.0.0",
+  "description": "",
+  "type":"module",
+  "main": "index.js",
+  "scripts": 
+  {"test": "jasmine",
+   "start":"nodemon index.js"},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mimimingfei/diary-challenge-OOD.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mimimingfei/diary-challenge-OOD/issues"
+  },
+  "homepage": "https://github.com/mimimingfei/diary-challenge-OOD#readme"
+}
